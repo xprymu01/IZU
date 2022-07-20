@@ -1,0 +1,28 @@
+
+attributes {
+    oblacnost : polojasno oblacno zatazeno
+    srazky : slabe vydatne
+    teplota : nizka stredni vysoka
+    vhkost : mala velka
+}
+
+classes {
+    Q
+    R
+    S
+}
+
+objects {
+    1 S zatazeno slabe vysoka velka
+    2 Q zatazeno slabe vysoka mala
+    3 R oblacno vydatne stredni velka
+    4 S polojasno vydatne vysoka mala
+    5 Q oblacno vydatne nizka mala
+    6 Q oblacno vydatne stredni mala
+    7 Q polojasno slabe nizka mala
+    8 R polojasno slabe stredni velka
+    9 Q zatazeno slabe stredni velka
+    10 Q oblacno slabe vysoka velka
+    11 R polojasno slabe vysoka velka
+    12 R oblacno slabe nizka mala
+}
